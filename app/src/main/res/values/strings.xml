@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AlarmaC</string>
+    <string name="titulo">EMERGENCIA</string>
+    <string name="aviso">AVISO</string>
+    <string name="emergencia">EMERGENCIA</string>
+    <string name="volver">VOLVER</string>
+    <string name="ladron_dentro_decasa">LADRON DENTRO DE CASA</string>
+    <string name="ladron_fuera_decasa">LADRON FUERA DE CASA </string>
+    <string name="estoy_oculto_encasa">ESTOY OCULTO EN CASA </string>
+    <string name="estoy_amarrado_encasa">ESTOY AMARRADO EN CASA </string>
+
+    <string name="casa_vulnerada">CASA VULNERADA</string>
+    <string name="ladron_dentro_de_casa">LADRON DENTRO DE CASA </string>
+    <string name="sospechoso_en_sector">SOSPECHOSO EN SECTOR </string>
+
+    <string name="casa_patriciovega">Patricio Fernando Vega Casa 214 Parcela 22 </string>
+
+
+</resources>
